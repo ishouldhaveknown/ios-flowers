@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "B7ABC9E1-610D-4E98-B57A-63637F3F32CF",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Flowers.xcodeproj",
+      "identifier" : "5CC6C38B2C3FD7C000892178",
+      "name" : "Flowers"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Flowers.xcodeproj",
+        "identifier" : "5CC6C39B2C3FD7C100892178",
+        "name" : "FlowersTests"
+      }
+    }
+  ],
+  "version" : 1
+}
